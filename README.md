@@ -6,4 +6,4 @@ Scripts for obtaining local deformation history from ABAQUS simulations of a def
 
 - elasplas2umat.py - utility Python script that converts conventionally defined elastoplastic material in ABAQUS/CAE to a user material required for j2isoVelGradOut.for UMAT subroutine/
 
-See more details in this [blog post](http://latmarat.github.io/blog/tutorials/abaqus2vpsc).
+See more details in this [blog post](https://latmarat.github.io/blog/abaqus2vpsc).
